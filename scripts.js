@@ -17,6 +17,4 @@ function handleVideo(stream) {
 function videoError(e) {
     // do something
 }
-
-=======
-webgazer.begin()
+//test commit
