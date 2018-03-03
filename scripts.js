@@ -1,3 +1,4 @@
+
 webgazer.begin()
 
 /* All the stuff that deals with video */
@@ -17,3 +18,5 @@ function videoError(e) {
     // do something
 }
 
+=======
+webgazer.begin()
